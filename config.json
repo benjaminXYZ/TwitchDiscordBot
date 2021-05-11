@@ -1,0 +1,8 @@
+{
+  "discord_token": "YOURDISCORDTOKEN",
+  "discord_channel": "DISCORDCHANNELID",
+  "twitch_channel": "#yourtwitchchannel",
+  "twitch_username": "yourtwitchusername",
+  "twitch_token": "oauth:yourtwitchtoken",
+  "maxlength": 510
+}
